@@ -1,0 +1,11 @@
+emma_green;emmaPass;Emma;Green;AN222222;emma.green@example.com;0
+david_white;davidPass;David;White;AN333333;david.white@example.com;1
+olivia_hill;oliviaPass;Olivia;Hill;AN666666;olivia.hill@example.com;2
+john_doe;password123;John;Doe;AN123456;john.doe@example.com;0
+lisa_brown;lisaPass;Lisa;Brown;AN444444;lisa.brown@example.com;0
+alice_jones;pass123;Alice;Jones;AN555555;alice.jones@example.com;2
+lilo;pass;Lilo;Pelekai;AD234567;lilo@example.com;0
+jane_smith;securePass;Jane;Smith;AN987654;jane.smith@example.com;0
+ryan_adams;ryanPass;Ryan;Adams;AN777777;ryan.adams@example.com;1
+john_b;jpass;John;B;AW202034;johnb@example.com;0
+booklover;pass;Peter;Pan;AL009876;peterpan@example.com;1

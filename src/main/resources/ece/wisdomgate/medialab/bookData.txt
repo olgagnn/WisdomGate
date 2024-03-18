@@ -1,0 +1,20 @@
+Harry Potter and the Philosopher's Stone;J. K. Rowling;Bloomsbury Publishing PLC;Fantasy;9781408855652;2014;7;0;0
+Harry Potter and the Chamber of Secrets;J. K. Rowling;Bloomsbury Publishing PLC;Fantasy;9781408845653;2016;5;0;0
+Harry Potter and the Prisoner of Azkaban;J. K. Rowling;Bloomsbury Publishing PLC;Fantasy;9781408855676;2014;1;5;1
+Harry Potter and the Goblet of Fire;J. K. Rowling;Scholastic;Fantasy;9788498389944;2002;2;5;2
+Harry Potter and the Order of the Phoenix;J. K. Rowling;Arthur A. Levine Books;Fantasy;9780439358064;2003;4;4;1
+Harry Potter and the Half Blood Prince;J. K. Rowling;Bloomsbury Publishing PLC;Fantasy;9781408855706;2005;1;4;1
+Harry Potter and the Deathly Hallows;J. K. Rowling;Bloomsbury Publishing PLC;Fantasy;9781408855713;2014;6;0;0
+The Hound of the Baskervilles;Doyle Arthur Conan;Oxford University Press;Mystery;9780199536962;2008;1;5;1
+Pride and Prejudice;Jane Austen;Penguin Books;Romance;9780451530783;2002;4;3;3
+David Copperfield;Charles Dickens;Penguin Books;Classic Literature;9788424155117;2004;1;3;1
+The Love Hypothesis;Ali Hazelwood;Little Brown Book Group;Romance;9781408725764;2021;4;5;4
+The Fellowship of the Ring;J. R. R. Tolkien;HarperCollins Publishers;Adventure;9780261103573;1997;7;5;1
+The Two Towers;J. R. R. Tolkien;HarperCollins Publishers;Adventure;9780007203550;2005;4;3;1
+The Return Of The King;J. R. R. Tolkien;HarperCollins Publishers;Adventure;9780008376147;2020;1;4;2
+Journey to the Center of the Earth;Jules Verne;Bantam;Science Fiction;9780553213973;1991;2;2;2
+Twenty Thousand Leagues Under the Sea;Jules Verne;Barnes & Noble;Science Fiction;9780760728505;2002;4;0;0
+The Mysterious Island;Jules Verne;Modern Library;Science Fiction;9780812972122;2004;1;2;1
+Treasure Island;Robert Louis Stevenson;Kingfisher;Adventure;9780753453803;2001;1;4;1
+The Adventures of Tom Sawyer;Mark Twain;Penguin Classics;Classic Literature;9780143039563;2006;3;0;0
+The Mystery of the Disappearing Cat;Enid Blyton;Egmont Books Limited;Mystery;9781405203944;2003;1;4;1
