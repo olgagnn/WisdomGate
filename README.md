@@ -34,9 +34,19 @@ These dependencies are managed using Maven, so make sure you have Maven installe
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
 
-## License
+## Sneak a peek!
+![image](https://github.com/user-attachments/assets/ccefc49d-f993-4329-8a2d-259047ffbb7a)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![image](https://github.com/user-attachments/assets/feb50d91-da5f-4f27-9c9c-8ee194fb9990)
+
+![image](https://github.com/user-attachments/assets/8d345dfe-94d2-40c3-b47e-a4385d396850)
+
+![image](https://github.com/user-attachments/assets/32e4031d-3530-432f-85a3-b557ee0d945a)
+
+![image](https://github.com/user-attachments/assets/635a2d05-c6a9-457d-b675-3d1f62c8ffa8)
+
+![image](https://github.com/user-attachments/assets/69ee7258-4b22-48d5-b0fa-63627c8f71a2)
+
 
 ## Acknowledgments
 
