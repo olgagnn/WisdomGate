@@ -46,10 +46,3 @@ Contributions are welcome! If you find any bugs or have suggestions for new feat
 ![image](https://github.com/user-attachments/assets/635a2d05-c6a9-457d-b675-3d1f62c8ffa8)
 
 ![image](https://github.com/user-attachments/assets/69ee7258-4b22-48d5-b0fa-63627c8f71a2)
-
-
-## Acknowledgments
-
-- This project was inspired by the need for an efficient library management system.
-- Special thanks to the developers of JavaFX and Gson for providing powerful libraries for building Java applications.
-
