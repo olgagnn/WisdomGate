@@ -26,7 +26,6 @@ To get started with WisdomGate Library Management System, follow these steps:
 WisdomGate Library Management System uses the following dependencies:
 
 - JavaFX: for building the graphical user interface
-- Gson: for serializing and deserializing JSON data
 
 These dependencies are managed using Maven, so make sure you have Maven installed to resolve them.
 
